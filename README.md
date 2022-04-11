@@ -1,4 +1,4 @@
-# CadastroProdutos
+# Cadastro de Produtos
 
 ## Para que serve o Cadastro de Produtos ?
 
